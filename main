@@ -1,5 +1,3 @@
-```cpp
-
 /*
  * Sensörler:
  *   MPL3115A2  -> 0x60  (Basınç, Sıcaklık)
